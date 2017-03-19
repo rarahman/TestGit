@@ -1,2 +1,4 @@
 TC1: Login with authorized account.
 TC2: Login with unauthorized account.
+TC3: Logout of application.
+
